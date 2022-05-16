@@ -1,5 +1,4 @@
-from datetime import timedelta
-from datetime import datetime
+from datetime import timedelta, datetime
 
 
 class Event:
@@ -28,7 +27,7 @@ class Event:
         if parsed_date < datetime.now() + timedelta(minutes=15):
             raise ValueError(f'Not enough time to organize a meeting: {parsed_date - datetime.now()}')
 
-        self._start_time = val
+        self._start_time = parsed_date
 
     @property
     def title(self):
@@ -55,6 +54,15 @@ class Event:
 
         self._duration = timedelta(minutes=value)
 
+    def __str__(self):
+        delta_time = self.start_time - datetime.now()
+        hours, rest = delta_time.seconds // 3600, delta_time.seconds % 3600
+        minutes, seconds = rest // 60, rest % 60
+        days = f'{delta_time.days} days, ' if delta_time.days > 0 else ''
+        minutes = f'0{minutes}'[-2:]
+        seconds = f'0{seconds}'[-2:]
+        return f'{self.title}, time to event: {days}{hours}:{minutes}:{seconds}'
 
-e = Event(42, '', '16-05-2022 14:00', 20, '', '')
-print(e.start_time)
+
+e = Event(42, '', '16-05-2022 15:00', 20, '', '')
+print(e)
