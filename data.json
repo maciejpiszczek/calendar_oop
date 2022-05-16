@@ -1,0 +1,5681 @@
+[
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-08-2022 10:33",
+        "duration": 177,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "19-07-2022 07:04",
+        "duration": 312,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-12-2022 06:41",
+        "duration": 413,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "19-10-2022 12:55",
+        "duration": 365,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-09-2022 18:29",
+        "duration": 222,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Izmael",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-09-2022 11:37",
+        "duration": 18,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "30-10-2022 00:27",
+        "duration": 497,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Ala",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "11-08-2022 13:44",
+        "duration": 402,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "28-04-2023 00:50",
+        "duration": 369,
+        "owner": "Ala",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-08-2022 14:35",
+        "duration": 325,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-08-2022 10:09",
+        "duration": 192,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "07-01-2023 18:58",
+        "duration": 452,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-12-2022 03:41",
+        "duration": 101,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "02-09-2022 07:21",
+        "duration": 196,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Roch",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "30-01-2023 20:31",
+        "duration": 567,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Ala",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "17-03-2023 05:50",
+        "duration": 260,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "27-01-2023 18:14",
+        "duration": 133,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "18-01-2023 12:35",
+        "duration": 591,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-03-2023 22:01",
+        "duration": 89,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Izmael",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-07-2022 00:43",
+        "duration": 456,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "27-10-2022 03:29",
+        "duration": 397,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Ala",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "11-12-2022 03:22",
+        "duration": 57,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-07-2022 06:14",
+        "duration": 56,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "12-04-2023 16:06",
+        "duration": 450,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "11-01-2023 07:39",
+        "duration": 29,
+        "owner": "Damian",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "16-08-2022 22:22",
+        "duration": 354,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-12-2022 20:46",
+        "duration": 152,
+        "owner": "Ala",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "13-01-2023 06:29",
+        "duration": 109,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Roch",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "05-03-2023 10:46",
+        "duration": 223,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "17-01-2023 04:48",
+        "duration": 65,
+        "owner": "Izmael",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "06-06-2022 09:45",
+        "duration": 223,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-05-2022 07:59",
+        "duration": 389,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "23-12-2022 20:40",
+        "duration": 313,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "21-11-2022 04:20",
+        "duration": 414,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-07-2022 10:46",
+        "duration": 523,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "26-06-2022 08:43",
+        "duration": 312,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-01-2023 06:20",
+        "duration": 119,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Izmael",
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "13-08-2022 10:54",
+        "duration": 69,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "29-12-2022 17:53",
+        "duration": 301,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Izmael",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-11-2022 07:09",
+        "duration": 488,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "23-01-2023 11:55",
+        "duration": 19,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Ala",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "12-04-2023 04:03",
+        "duration": 455,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "07-12-2022 12:48",
+        "duration": 293,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "11-01-2023 10:34",
+        "duration": 195,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-09-2022 16:36",
+        "duration": 80,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "24-02-2023 01:08",
+        "duration": 257,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-02-2023 03:20",
+        "duration": 59,
+        "owner": "Roch",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-01-2023 23:51",
+        "duration": 592,
+        "owner": "Lech",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "01-03-2023 16:39",
+        "duration": 426,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "17-12-2022 05:55",
+        "duration": 326,
+        "owner": "Ala",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "05-12-2022 17:05",
+        "duration": 392,
+        "owner": "Lech",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "28-10-2022 02:22",
+        "duration": 256,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Ala",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "21-12-2022 01:37",
+        "duration": 578,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-10-2022 10:21",
+        "duration": 104,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-03-2023 20:42",
+        "duration": 53,
+        "owner": "Ala",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "25-03-2023 00:58",
+        "duration": 481,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Damian",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "04-12-2022 09:04",
+        "duration": 524,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-06-2022 05:16",
+        "duration": 271,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "25-06-2022 04:03",
+        "duration": 518,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Izmael",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "30-07-2022 18:34",
+        "duration": 488,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "05-06-2022 22:56",
+        "duration": 369,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-08-2022 21:33",
+        "duration": 355,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Roch",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "28-02-2023 13:31",
+        "duration": 81,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-08-2022 21:27",
+        "duration": 501,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "28-03-2023 03:05",
+        "duration": 376,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Izmael",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "26-08-2022 13:47",
+        "duration": 471,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "28-04-2023 10:21",
+        "duration": 47,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "06-02-2023 01:07",
+        "duration": 232,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "09-01-2023 05:08",
+        "duration": 94,
+        "owner": "Izmael",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "04-12-2022 16:35",
+        "duration": 252,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "11-06-2022 20:14",
+        "duration": 336,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "06-07-2022 01:52",
+        "duration": 425,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "26-04-2023 07:20",
+        "duration": 473,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "13-09-2022 04:40",
+        "duration": 501,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "10-10-2022 06:04",
+        "duration": 476,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "23-05-2022 07:08",
+        "duration": 31,
+        "owner": "Izmael",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "04-03-2023 12:14",
+        "duration": 86,
+        "owner": "Lech",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "27-06-2022 17:11",
+        "duration": 92,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "10-01-2023 08:58",
+        "duration": 545,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "31-08-2022 04:57",
+        "duration": 586,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "10-10-2022 10:31",
+        "duration": 505,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "07-04-2023 05:45",
+        "duration": 390,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "07-08-2022 20:06",
+        "duration": 152,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Ala",
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "06-07-2022 20:04",
+        "duration": 124,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Roch",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "19-02-2023 12:58",
+        "duration": 383,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-03-2023 23:30",
+        "duration": 565,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "22-11-2022 14:30",
+        "duration": 149,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "19-03-2023 20:27",
+        "duration": 356,
+        "owner": "Ala",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "22-05-2022 13:00",
+        "duration": 52,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Izmael",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "23-04-2023 10:55",
+        "duration": 492,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Damian",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "04-06-2022 10:53",
+        "duration": 61,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "01-09-2022 07:35",
+        "duration": 316,
+        "owner": "Ala",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "27-03-2023 06:30",
+        "duration": 26,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "28-07-2022 15:30",
+        "duration": 25,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "25-07-2022 19:29",
+        "duration": 286,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "19-01-2023 07:14",
+        "duration": 549,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "23-01-2023 14:37",
+        "duration": 385,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "19-01-2023 02:16",
+        "duration": 297,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "29-01-2023 04:02",
+        "duration": 116,
+        "owner": "Damian",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "17-09-2022 10:17",
+        "duration": 239,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Ala",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-07-2022 10:03",
+        "duration": 116,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Damian",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-01-2023 00:17",
+        "duration": 394,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Damian",
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "14-03-2023 22:00",
+        "duration": 381,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "12-10-2022 13:45",
+        "duration": 304,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-01-2023 13:14",
+        "duration": 178,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-02-2023 05:04",
+        "duration": 77,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-06-2022 12:49",
+        "duration": 511,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "05-10-2022 22:23",
+        "duration": 73,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "21-05-2022 10:21",
+        "duration": 122,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "14-11-2022 01:58",
+        "duration": 319,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "28-06-2022 15:44",
+        "duration": 194,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "28-09-2022 16:36",
+        "duration": 227,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "30-05-2022 03:47",
+        "duration": 225,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "25-01-2023 04:50",
+        "duration": 450,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Lech",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "16-02-2023 12:31",
+        "duration": 463,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "02-01-2023 19:42",
+        "duration": 470,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "30-06-2022 11:15",
+        "duration": 111,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "19-05-2022 04:39",
+        "duration": 93,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Damian",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "17-10-2022 19:26",
+        "duration": 154,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Izmael",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "09-11-2022 11:34",
+        "duration": 239,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-07-2022 11:24",
+        "duration": 598,
+        "owner": "Lech",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "11-03-2023 02:53",
+        "duration": 322,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Roch",
+            "Ala",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "13-06-2022 07:52",
+        "duration": 252,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Roch",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "04-09-2022 06:57",
+        "duration": 165,
+        "owner": "Damian",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-03-2023 02:03",
+        "duration": 405,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "31-07-2022 14:00",
+        "duration": 236,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "12-06-2022 22:32",
+        "duration": 124,
+        "owner": "Roch",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-09-2022 12:10",
+        "duration": 429,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "11-01-2023 20:49",
+        "duration": 552,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-02-2023 11:19",
+        "duration": 135,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-04-2023 10:19",
+        "duration": 278,
+        "owner": "Roch",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-09-2022 07:58",
+        "duration": 197,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "21-07-2022 06:37",
+        "duration": 413,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "24-05-2022 14:21",
+        "duration": 512,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-01-2023 16:35",
+        "duration": 422,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-03-2023 06:14",
+        "duration": 253,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Lech",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-02-2023 19:20",
+        "duration": 59,
+        "owner": "Lech",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "31-08-2022 13:31",
+        "duration": 322,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-01-2023 17:52",
+        "duration": 531,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-04-2023 06:49",
+        "duration": 419,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "20-11-2022 19:01",
+        "duration": 520,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "30-01-2023 05:38",
+        "duration": 323,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-11-2022 22:34",
+        "duration": 286,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "16-04-2023 03:49",
+        "duration": 339,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "04-10-2022 19:27",
+        "duration": 283,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "03-03-2023 02:36",
+        "duration": 438,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "13-09-2022 12:42",
+        "duration": 457,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "23-08-2022 09:44",
+        "duration": 288,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-10-2022 00:56",
+        "duration": 195,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "27-02-2023 13:19",
+        "duration": 381,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "04-12-2022 18:51",
+        "duration": 474,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "04-09-2022 15:19",
+        "duration": 528,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "22-06-2022 08:37",
+        "duration": 523,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-10-2022 03:59",
+        "duration": 275,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "23-11-2022 04:23",
+        "duration": 244,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "09-06-2022 13:32",
+        "duration": 585,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Ala",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "07-04-2023 15:45",
+        "duration": 233,
+        "owner": "Lech",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "30-01-2023 04:58",
+        "duration": 182,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "28-10-2022 20:22",
+        "duration": 150,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-07-2022 23:50",
+        "duration": 43,
+        "owner": "Izmael",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "16-08-2022 10:45",
+        "duration": 465,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-04-2023 05:22",
+        "duration": 506,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "30-05-2022 20:28",
+        "duration": 507,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "17-04-2023 18:55",
+        "duration": 301,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "17-07-2022 07:31",
+        "duration": 160,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "04-04-2023 06:39",
+        "duration": 582,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Izmael",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "20-04-2023 18:56",
+        "duration": 180,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Izmael",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "06-03-2023 21:33",
+        "duration": 249,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "09-07-2022 12:09",
+        "duration": 571,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "22-08-2022 17:37",
+        "duration": 24,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "17-04-2023 17:26",
+        "duration": 136,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Lech",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "23-03-2023 20:14",
+        "duration": 267,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "01-02-2023 04:10",
+        "duration": 521,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-09-2022 12:14",
+        "duration": 132,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "03-06-2022 21:22",
+        "duration": 493,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "25-09-2022 18:29",
+        "duration": 60,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-04-2023 02:01",
+        "duration": 250,
+        "owner": "Lech",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "06-08-2022 02:50",
+        "duration": 359,
+        "owner": "Ala",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "18-12-2022 00:51",
+        "duration": 201,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-03-2023 17:10",
+        "duration": 76,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "14-12-2022 18:04",
+        "duration": 219,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "26-01-2023 04:15",
+        "duration": 527,
+        "owner": "Izmael",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-10-2022 17:16",
+        "duration": 131,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "21-11-2022 19:20",
+        "duration": 295,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "24-03-2023 11:22",
+        "duration": 370,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "25-06-2022 10:04",
+        "duration": 554,
+        "owner": "Roch",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "27-02-2023 23:15",
+        "duration": 448,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "31-03-2023 03:26",
+        "duration": 259,
+        "owner": "Ala",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "05-11-2022 21:14",
+        "duration": 267,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "30-06-2022 02:54",
+        "duration": 338,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-06-2022 14:25",
+        "duration": 400,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "27-05-2022 12:23",
+        "duration": 169,
+        "owner": "Roch",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "21-04-2023 00:46",
+        "duration": 490,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "13-09-2022 04:59",
+        "duration": 179,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-03-2023 17:28",
+        "duration": 432,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Izmael",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "23-04-2023 03:45",
+        "duration": 292,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "22-01-2023 09:25",
+        "duration": 114,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "12-08-2022 04:01",
+        "duration": 151,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "16-09-2022 03:05",
+        "duration": 183,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "14-02-2023 11:07",
+        "duration": 294,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "13-02-2023 08:51",
+        "duration": 53,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Izmael",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-08-2022 17:09",
+        "duration": 554,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Izmael",
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "06-04-2023 19:28",
+        "duration": 26,
+        "owner": "Lech",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "17-11-2022 12:31",
+        "duration": 442,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "21-12-2022 23:23",
+        "duration": 402,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Ala",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "27-04-2023 01:55",
+        "duration": 153,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "27-08-2022 12:09",
+        "duration": 69,
+        "owner": "Damian",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-04-2023 16:26",
+        "duration": 172,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "24-02-2023 22:44",
+        "duration": 441,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-06-2022 16:09",
+        "duration": 563,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Izmael",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "03-12-2022 01:33",
+        "duration": 501,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "27-08-2022 23:20",
+        "duration": 80,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "05-07-2022 05:02",
+        "duration": 437,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "01-07-2022 06:02",
+        "duration": 141,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "07-08-2022 07:15",
+        "duration": 531,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Lech",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-06-2022 23:53",
+        "duration": 426,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "20-07-2022 14:25",
+        "duration": 490,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Damian",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "16-11-2022 06:24",
+        "duration": 432,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "12-02-2023 17:03",
+        "duration": 263,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "23-04-2023 20:10",
+        "duration": 458,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "05-08-2022 12:49",
+        "duration": 533,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Izmael",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-03-2023 01:02",
+        "duration": 253,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "14-06-2022 10:15",
+        "duration": 132,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "12-07-2022 13:51",
+        "duration": 598,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "20-12-2022 13:30",
+        "duration": 589,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Lech",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "15-02-2023 10:50",
+        "duration": 384,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "07-12-2022 20:59",
+        "duration": 146,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "16-03-2023 17:30",
+        "duration": 461,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "11-01-2023 04:31",
+        "duration": 421,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Lech",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "16-01-2023 01:15",
+        "duration": 491,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "01-12-2022 00:42",
+        "duration": 432,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "05-10-2022 22:07",
+        "duration": 308,
+        "owner": "Lech",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "17-11-2022 00:37",
+        "duration": 267,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "27-06-2022 21:06",
+        "duration": 30,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "16-01-2023 22:56",
+        "duration": 61,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Lech",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-03-2023 21:32",
+        "duration": 564,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "01-04-2023 20:51",
+        "duration": 350,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-08-2022 03:27",
+        "duration": 168,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "20-09-2022 19:29",
+        "duration": 556,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "07-08-2022 15:08",
+        "duration": 584,
+        "owner": "Roch",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "24-05-2022 15:51",
+        "duration": 419,
+        "owner": "Roch",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "31-12-2022 22:57",
+        "duration": 380,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-09-2022 07:19",
+        "duration": 242,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-12-2022 03:51",
+        "duration": 413,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "01-12-2022 04:51",
+        "duration": 374,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-01-2023 05:52",
+        "duration": 394,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "25-01-2023 18:40",
+        "duration": 173,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Damian",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "29-07-2022 19:51",
+        "duration": 542,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Damian",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-12-2022 16:56",
+        "duration": 22,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "04-10-2022 01:59",
+        "duration": 263,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-11-2022 06:28",
+        "duration": 272,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Izmael",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-06-2022 02:27",
+        "duration": 244,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "08-09-2022 16:01",
+        "duration": 16,
+        "owner": "Roch",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "16-08-2022 19:15",
+        "duration": 139,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-03-2023 23:45",
+        "duration": 42,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "04-03-2023 00:00",
+        "duration": 302,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "31-05-2022 04:20",
+        "duration": 22,
+        "owner": "Damian",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-12-2022 14:54",
+        "duration": 109,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "04-09-2022 02:23",
+        "duration": 468,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "07-03-2023 02:13",
+        "duration": 308,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "17-03-2023 20:36",
+        "duration": 313,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "17-02-2023 05:45",
+        "duration": 436,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "14-03-2023 09:54",
+        "duration": 78,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "17-07-2022 11:17",
+        "duration": 65,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-12-2022 16:52",
+        "duration": 390,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "24-02-2023 16:58",
+        "duration": 467,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "29-09-2022 03:27",
+        "duration": 18,
+        "owner": "Damian",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-02-2023 00:19",
+        "duration": 515,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "29-01-2023 08:56",
+        "duration": 425,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "29-07-2022 01:17",
+        "duration": 555,
+        "owner": "Izmael",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "14-02-2023 10:06",
+        "duration": 548,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "14-08-2022 23:06",
+        "duration": 336,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "17-08-2022 14:40",
+        "duration": 185,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Roch",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "21-12-2022 18:37",
+        "duration": 32,
+        "owner": "Roch",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "19-11-2022 01:29",
+        "duration": 278,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "08-06-2022 06:56",
+        "duration": 327,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Roch",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "19-06-2022 10:12",
+        "duration": 98,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-09-2022 20:43",
+        "duration": 462,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "28-05-2022 15:00",
+        "duration": 283,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "22-08-2022 10:32",
+        "duration": 103,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "30-01-2023 13:44",
+        "duration": 90,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-07-2022 16:51",
+        "duration": 248,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "25-03-2023 03:36",
+        "duration": 281,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "02-04-2023 23:00",
+        "duration": 349,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Lech",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "26-06-2022 17:24",
+        "duration": 505,
+        "owner": "Lech",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "03-12-2022 17:56",
+        "duration": 77,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "13-12-2022 07:00",
+        "duration": 378,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "28-11-2022 23:53",
+        "duration": 526,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "02-01-2023 03:01",
+        "duration": 58,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "05-01-2023 05:42",
+        "duration": 36,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-03-2023 21:43",
+        "duration": 26,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "04-03-2023 10:16",
+        "duration": 291,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "23-01-2023 09:47",
+        "duration": 592,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "24-02-2023 09:06",
+        "duration": 146,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "07-01-2023 12:49",
+        "duration": 18,
+        "owner": "Lech",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "22-09-2022 13:01",
+        "duration": 378,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-09-2022 05:22",
+        "duration": 453,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-08-2022 17:46",
+        "duration": 370,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "17-10-2022 09:18",
+        "duration": 55,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "04-11-2022 01:44",
+        "duration": 489,
+        "owner": "Ala",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "19-07-2022 08:20",
+        "duration": 524,
+        "owner": "Ala",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "19-01-2023 03:08",
+        "duration": 227,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Damian",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "18-12-2022 13:08",
+        "duration": 291,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Ala",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "27-12-2022 20:44",
+        "duration": 463,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "20-03-2023 14:08",
+        "duration": 436,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "06-12-2022 17:57",
+        "duration": 367,
+        "owner": "Damian",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "02-04-2023 16:41",
+        "duration": 593,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Roch",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "21-04-2023 06:15",
+        "duration": 37,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-12-2022 05:35",
+        "duration": 194,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "05-11-2022 04:19",
+        "duration": 386,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "06-08-2022 00:39",
+        "duration": 231,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "05-06-2022 20:57",
+        "duration": 449,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Izmael",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "18-03-2023 01:32",
+        "duration": 291,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Izmael",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-04-2023 18:55",
+        "duration": 100,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "02-04-2023 06:59",
+        "duration": 581,
+        "owner": "Lech",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "20-07-2022 12:33",
+        "duration": 402,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "02-07-2022 04:17",
+        "duration": 120,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Izmael",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "11-02-2023 21:47",
+        "duration": 97,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "18-03-2023 17:56",
+        "duration": 125,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "09-06-2022 04:18",
+        "duration": 222,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "13-11-2022 16:01",
+        "duration": 158,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-04-2023 19:50",
+        "duration": 174,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Ala",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "26-11-2022 18:21",
+        "duration": 384,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Roch",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "29-01-2023 04:19",
+        "duration": 394,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-11-2022 23:23",
+        "duration": 296,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Izmael",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "12-09-2022 17:56",
+        "duration": 208,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "06-09-2022 13:25",
+        "duration": 433,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "02-02-2023 08:14",
+        "duration": 217,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "24-07-2022 03:41",
+        "duration": 60,
+        "owner": "Damian",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-06-2022 04:58",
+        "duration": 263,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "25-09-2022 23:38",
+        "duration": 421,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Roch",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-11-2022 09:26",
+        "duration": 507,
+        "owner": "Izmael",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-01-2023 02:22",
+        "duration": 355,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "03-10-2022 18:26",
+        "duration": 178,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "10-04-2023 22:58",
+        "duration": 252,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "28-08-2022 16:15",
+        "duration": 327,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "27-06-2022 14:05",
+        "duration": 454,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "05-06-2022 23:38",
+        "duration": 62,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Izmael",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "13-07-2022 05:36",
+        "duration": 164,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "08-10-2022 11:16",
+        "duration": 39,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Damian",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "21-09-2022 08:15",
+        "duration": 523,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-02-2023 17:26",
+        "duration": 465,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-10-2022 00:50",
+        "duration": 438,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "17-12-2022 01:15",
+        "duration": 433,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-04-2023 07:54",
+        "duration": 252,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Izmael",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "12-06-2022 06:06",
+        "duration": 550,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-01-2023 11:12",
+        "duration": 149,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-03-2023 09:55",
+        "duration": 173,
+        "owner": "Roch",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-01-2023 13:30",
+        "duration": 56,
+        "owner": "Ala",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "25-08-2022 19:07",
+        "duration": 441,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-11-2022 01:26",
+        "duration": 150,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "28-01-2023 13:49",
+        "duration": 253,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-09-2022 18:18",
+        "duration": 331,
+        "owner": "Ala",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "13-01-2023 16:24",
+        "duration": 249,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "12-02-2023 22:04",
+        "duration": 239,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "06-02-2023 08:04",
+        "duration": 74,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "23-08-2022 01:43",
+        "duration": 20,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "25-02-2023 17:58",
+        "duration": 28,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-09-2022 10:44",
+        "duration": 203,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "01-09-2022 15:44",
+        "duration": 427,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "16-01-2023 08:12",
+        "duration": 172,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Roch",
+            "Ala",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "17-05-2022 07:04",
+        "duration": 492,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "27-01-2023 04:38",
+        "duration": 156,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "12-09-2022 02:32",
+        "duration": 295,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "11-02-2023 01:58",
+        "duration": 521,
+        "owner": "Izmael",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "30-09-2022 13:31",
+        "duration": 352,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "21-07-2022 09:29",
+        "duration": 41,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Izmael",
+            "Damian",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "30-12-2022 09:01",
+        "duration": 303,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-02-2023 15:02",
+        "duration": 533,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "15-01-2023 13:22",
+        "duration": 215,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-04-2023 23:04",
+        "duration": 25,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "25-08-2022 10:47",
+        "duration": 501,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-01-2023 23:29",
+        "duration": 309,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-01-2023 20:06",
+        "duration": 254,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Damian",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "06-07-2022 07:24",
+        "duration": 568,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "19-07-2022 19:47",
+        "duration": 90,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "07-07-2022 21:33",
+        "duration": 295,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "21-10-2022 14:01",
+        "duration": 349,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-01-2023 07:59",
+        "duration": 192,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "26-03-2023 20:39",
+        "duration": 572,
+        "owner": "Lech",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-03-2023 01:39",
+        "duration": 64,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "28-03-2023 01:23",
+        "duration": 331,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "23-05-2022 16:00",
+        "duration": 359,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "11-06-2022 14:36",
+        "duration": 82,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Roch",
+            "Lech",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "01-10-2022 04:54",
+        "duration": 110,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-01-2023 09:15",
+        "duration": 74,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-06-2022 03:01",
+        "duration": 514,
+        "owner": "Ala",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "11-10-2022 10:02",
+        "duration": 233,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "16-11-2022 10:09",
+        "duration": 21,
+        "owner": "Izmael",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "24-10-2022 17:53",
+        "duration": 233,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "03-01-2023 09:13",
+        "duration": 71,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-03-2023 21:58",
+        "duration": 141,
+        "owner": "Ala",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "01-02-2023 09:19",
+        "duration": 121,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "26-07-2022 03:28",
+        "duration": 60,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-07-2022 14:39",
+        "duration": 594,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Izmael",
+            "Damian",
+            "Roch",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "25-08-2022 05:28",
+        "duration": 339,
+        "owner": "Izmael",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-02-2023 09:02",
+        "duration": 68,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Ala",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "19-03-2023 22:42",
+        "duration": 522,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "19-08-2022 10:08",
+        "duration": 165,
+        "owner": "Izmael",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "24-11-2022 07:19",
+        "duration": 416,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "31-07-2022 14:49",
+        "duration": 429,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "04-06-2022 19:56",
+        "duration": 26,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Roch",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "14-08-2022 20:46",
+        "duration": 350,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "25-08-2022 04:46",
+        "duration": 468,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "02-01-2023 09:46",
+        "duration": 348,
+        "owner": "Lech",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "22-09-2022 09:19",
+        "duration": 520,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "26-07-2022 05:49",
+        "duration": 464,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-10-2022 15:50",
+        "duration": 409,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Ala",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "04-06-2022 16:36",
+        "duration": 369,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Izmael",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "13-03-2023 23:59",
+        "duration": 32,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "23-11-2022 01:20",
+        "duration": 162,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "30-06-2022 03:35",
+        "duration": 30,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "16-08-2022 22:31",
+        "duration": 162,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "05-11-2022 03:49",
+        "duration": 144,
+        "owner": "Ala",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "29-10-2022 02:06",
+        "duration": 315,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "22-01-2023 11:25",
+        "duration": 304,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "11-08-2022 18:07",
+        "duration": 136,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "21-08-2022 09:30",
+        "duration": 214,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Roch",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "07-12-2022 19:41",
+        "duration": 526,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "08-03-2023 14:29",
+        "duration": 516,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Ala",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "02-12-2022 09:46",
+        "duration": 562,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "30-10-2022 21:16",
+        "duration": 346,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "31-01-2023 05:10",
+        "duration": 436,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "20-02-2023 17:24",
+        "duration": 95,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "20-09-2022 05:44",
+        "duration": 61,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "05-10-2022 06:43",
+        "duration": 543,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Damian",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "22-02-2023 16:39",
+        "duration": 493,
+        "owner": "Izmael",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-08-2022 05:57",
+        "duration": 385,
+        "owner": "Roch",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Roch",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "12-01-2023 15:52",
+        "duration": 347,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "14-12-2022 00:40",
+        "duration": 463,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "10-11-2022 00:45",
+        "duration": 485,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "22-02-2023 19:37",
+        "duration": 372,
+        "owner": "Lech",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "12-10-2022 12:48",
+        "duration": 188,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "15-06-2022 22:29",
+        "duration": 19,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "02-11-2022 09:09",
+        "duration": 577,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "23-03-2023 20:45",
+        "duration": 336,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Roch",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-08-2022 15:25",
+        "duration": 476,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "22-11-2022 23:18",
+        "duration": 569,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Ala",
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "02-11-2022 15:38",
+        "duration": 207,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-01-2023 23:19",
+        "duration": 269,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Ala",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "21-02-2023 18:06",
+        "duration": 496,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Ala",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "15-02-2023 04:42",
+        "duration": 577,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-12-2022 10:45",
+        "duration": 165,
+        "owner": "Damian",
+        "participants": [
+            "Lech",
+            "Damian",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "23-07-2022 04:17",
+        "duration": 65,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "08-03-2023 10:37",
+        "duration": 454,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "09-03-2023 09:17",
+        "duration": 501,
+        "owner": "Ala",
+        "participants": [
+            "Lech",
+            "Lech",
+            "Roch",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-07-2022 07:22",
+        "duration": 439,
+        "owner": "Ala",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "26-06-2022 10:30",
+        "duration": 62,
+        "owner": "Roch",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "23-05-2022 22:37",
+        "duration": 68,
+        "owner": "Lech",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-11-2022 05:36",
+        "duration": 186,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "20-02-2023 18:35",
+        "duration": 256,
+        "owner": "Ala",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Izmael",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "21-07-2022 00:07",
+        "duration": 127,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Damian",
+            "Damian",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "24-06-2022 05:27",
+        "duration": 79,
+        "owner": "Ala",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "27-07-2022 14:24",
+        "duration": 192,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Damian",
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "29-05-2022 17:01",
+        "duration": 436,
+        "owner": "Izmael",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "24-11-2022 08:36",
+        "duration": 422,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-09-2022 12:27",
+        "duration": 141,
+        "owner": "Lech",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "28-07-2022 07:34",
+        "duration": 252,
+        "owner": "Lech",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "26-06-2022 16:54",
+        "duration": 595,
+        "owner": "Lech",
+        "participants": [
+            "Izmael",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "19-10-2022 15:25",
+        "duration": 489,
+        "owner": "Roch",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "13-01-2023 16:38",
+        "duration": 106,
+        "owner": "Ala",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "11-08-2022 19:23",
+        "duration": 318,
+        "owner": "Damian",
+        "participants": [
+            "Ala",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "06-12-2022 16:23",
+        "duration": 465,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Roch",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "13-04-2023 20:12",
+        "duration": 112,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Lech",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-03-2023 11:12",
+        "duration": 269,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "09-02-2023 21:12",
+        "duration": 468,
+        "owner": "Izmael",
+        "participants": [
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "25-11-2022 01:44",
+        "duration": 341,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-11-2022 20:06",
+        "duration": 490,
+        "owner": "Roch",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "04-01-2023 11:46",
+        "duration": 385,
+        "owner": "Izmael",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "03-03-2023 02:02",
+        "duration": 350,
+        "owner": "Roch",
+        "participants": [
+            "Izmael",
+            "Ala",
+            "Lech",
+            "Izmael",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-12-2022 20:20",
+        "duration": 247,
+        "owner": "Roch",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "04-03-2023 03:31",
+        "duration": 32,
+        "owner": "Roch",
+        "participants": [
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "09-01-2023 06:47",
+        "duration": 172,
+        "owner": "Lech",
+        "participants": [
+            "Roch",
+            "Lech",
+            "Damian",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "22-10-2022 07:16",
+        "duration": 488,
+        "owner": "Lech",
+        "participants": [
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "03-06-2022 23:22",
+        "duration": 304,
+        "owner": "Roch",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "10-07-2022 13:56",
+        "duration": 135,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Damian",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "09-06-2022 15:14",
+        "duration": 72,
+        "owner": "Damian",
+        "participants": [
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "02-04-2023 20:05",
+        "duration": 590,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "18-05-2022 03:43",
+        "duration": 50,
+        "owner": "Damian",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "21-07-2022 13:43",
+        "duration": 382,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Lech",
+            "Izmael",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "10-06-2022 07:19",
+        "duration": 431,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Roch",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "28-01-2023 05:34",
+        "duration": 485,
+        "owner": "Izmael",
+        "participants": [
+            "Damian",
+            "Izmael",
+            "Izmael",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "20-04-2023 02:41",
+        "duration": 229,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Ala",
+            "Roch",
+            "Lech",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "24-04-2023 05:08",
+        "duration": 554,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael",
+            "Roch",
+            "Izmael",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "M\u0119cika\u0142",
+        "start_time": "20-05-2022 16:54",
+        "duration": 169,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "10-03-2023 09:32",
+        "duration": 393,
+        "owner": "Ala",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Lech",
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "23-12-2022 06:17",
+        "duration": 458,
+        "owner": "Roch",
+        "participants": [
+            "Ala",
+            "Lech",
+            "Ala",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "28-07-2022 17:02",
+        "duration": 33,
+        "owner": "Lech",
+        "participants": [
+            "Ala",
+            "Damian",
+            "Roch",
+            "Damian"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "28-07-2022 06:33",
+        "duration": 200,
+        "owner": "Lech",
+        "participants": [
+            "Lech",
+            "Roch",
+            "Ala",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "15-09-2022 09:55",
+        "duration": 152,
+        "owner": "Lech",
+        "participants": [
+            "Damian",
+            "Roch",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "08-04-2023 23:21",
+        "duration": 476,
+        "owner": "Ala",
+        "participants": [
+            "Lech"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "13-03-2023 06:19",
+        "duration": 535,
+        "owner": "Ala",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Damian",
+            "Roch"
+        ]
+    },
+    {
+        "title": "Learn python",
+        "location": "Pcim",
+        "start_time": "17-05-2022 23:38",
+        "duration": 92,
+        "owner": "Ala",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "14-02-2023 13:14",
+        "duration": 202,
+        "owner": "Izmael",
+        "participants": [
+            "Ala"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "20-12-2022 11:56",
+        "duration": 98,
+        "owner": "Izmael",
+        "participants": [
+            "Izmael",
+            "Lech",
+            "Lech",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "10-09-2022 04:29",
+        "duration": 25,
+        "owner": "Damian",
+        "participants": [
+            "Damian",
+            "Damian",
+            "Izmael",
+            "Damian",
+            "Ala"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "Pcim",
+        "start_time": "09-08-2022 15:02",
+        "duration": 271,
+        "owner": "Ala",
+        "participants": []
+    },
+    {
+        "title": "Clean up",
+        "location": "Pcim",
+        "start_time": "10-08-2022 08:44",
+        "duration": 460,
+        "owner": "Damian",
+        "participants": [
+            "Roch",
+            "Izmael"
+        ]
+    },
+    {
+        "title": "Drive a car",
+        "location": "M\u0119cika\u0142",
+        "start_time": "16-06-2022 19:27",
+        "duration": 267,
+        "owner": "Damian",
+        "participants": [
+            "Roch"
+        ]
+    },
+    {
+        "title": "Clean up",
+        "location": "Kozia W\u00f3lka",
+        "start_time": "01-06-2022 17:05",
+        "duration": 411,
+        "owner": "Roch",
+        "participants": [
+            "Damian",
+            "Lech",
+            "Izmael",
+            "Damian"
+        ]
+    }
+]
